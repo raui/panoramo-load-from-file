@@ -1,0 +1,1 @@
+# panoramo-load-from-file
